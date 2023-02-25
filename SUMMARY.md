@@ -4,3 +4,5 @@
 * [数据类型](shu-ju-lei-xing.md)
 * [变量](bian-liang.md)
 * [控制语句](kong-zhi-yu-ju.md)
+* [数组](shu-zu.md)
+* [模块与包](mo-kuai-yu-bao.md)
